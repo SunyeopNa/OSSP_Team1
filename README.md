@@ -17,7 +17,7 @@
 $ gcc server.c -o server.out
 ```
 
-### 페인트(paint.c)
+### 클라이언트(chat_cli.c)
 ```terminal
 $ gcc paint.c -o paint.out pkg-config --cflags --lib gtk+-2.0
 ```
