@@ -8,7 +8,12 @@
 - 그림채팅 종료 시 이미지 파일 텍스트 형식으로 저장
 # Dependency
 ------------------
-그림채팅 프로그램은 [GTK]를 기반으로 하고 있습니다.
+그림채팅 프로그램은 [GTK2.0]를 기반으로 하고 있습니다. GTK2.0은 다음의 명령어로 설치할 수 있습니다.
+```
+sudo apt-get install gtk2.0
+sudo apt-get install build-essential libgtk2.0-dev
+```
+Project 빌드를 수행하기 위해서 GCC가 필요합니다.
 
 # 빌드
 ------------------
