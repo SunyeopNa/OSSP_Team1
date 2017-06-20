@@ -29,6 +29,9 @@ $ gcc paint.c -o paint.out pkg-config --cflags --lib gtk+-2.0
 - 대상 서버변경 :
 #define SERVER_IP "127.0.0.1"의 IP를 원하는 Server IP로 변경합니다.
 
+# License
+------------------
+
 ```
 -* GNU Library or Lesser General Public License (LGPLv2)
 -* This library is free software; you can redistribute it and/or
