@@ -43,5 +43,5 @@ $ gcc paint.c -o paint.out pkg-config --cflags --lib gtk+-2.0
 -* but WITHOUT ANY WARRANTY; without even the implied warranty of
 -* MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
 -* Library General Public License for more details.
--*/
+
 ```
