@@ -19,7 +19,7 @@ Project 빌드를 수행하기 위해서 GCC가 필요합니다.
 ------------------
 ### 서버(server.c)
 ```terminal
-$ gcc server.c -o server.out
+$ gcc server.c -pthread -o server.out
 ```
 
 ### 클라이언트(chat_cli.c)
